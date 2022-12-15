@@ -16,7 +16,7 @@
 
 ## 배포 주소
 
-👉🏻 https://pjtpjt.tk/
+👉🏻 https://pjt.vercel.app/
 
 <br>
 
